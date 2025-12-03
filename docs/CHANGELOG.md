@@ -1,5 +1,43 @@
 # Tabler Documentation Changelog
 
+## 1.5.0
+
+### Patch Changes
+
+- a198b0c: Added Geist font family integration.
+- ab8009b: Fixed Docs search display in dark mode.
+- Updated dependencies [5e119d4]
+- Updated dependencies [059bae1]
+- Updated dependencies [5018aa9]
+- Updated dependencies [9c5d729]
+- Updated dependencies [ec94693]
+- Updated dependencies [c860288]
+- Updated dependencies [2dc7eda]
+- Updated dependencies [6e656ad]
+- Updated dependencies [8bc6fa7]
+- Updated dependencies [e206d7a]
+- Updated dependencies [4ce08ca]
+- Updated dependencies [b8b63d7]
+- Updated dependencies [0106d6b]
+- Updated dependencies [a198b0c]
+- Updated dependencies [9c5d729]
+- Updated dependencies [8d8727f]
+- Updated dependencies [5e119d4]
+- Updated dependencies [3aba62e]
+- Updated dependencies [0c79963]
+- Updated dependencies [4ce08ca]
+- Updated dependencies [9a3361f]
+- Updated dependencies [9c5d729]
+- Updated dependencies [9c5d729]
+- Updated dependencies [9c5d729]
+- Updated dependencies [9c5d729]
+- Updated dependencies [41ed22a]
+- Updated dependencies [9c5d729]
+- Updated dependencies [736e604]
+- Updated dependencies [f8dee0a]
+- Updated dependencies [9c5d729]
+  - @tabler/core@1.5.0
+
 ## 1.4.0
 
 ### Patch Changes
