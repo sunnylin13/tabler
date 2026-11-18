@@ -1,5 +1,13 @@
 # @tabler/core
 
+## 1.7.6
+
+### Patch Changes
+
+- 69b05e9: Fixed `OtpInput` keeping old characters when a shorter text is pasted over a selection.
+- d0fac39: Updated `.icon-pulse`, `.icon-tada` and `.icon-rotate` to transition only `transform` instead of `all`.
+- 46bd1d7: Fixed inline `code` blending into the surrounding text or becoming unreadable on colored surfaces such as buttons: it now takes the color of the surrounding text and uses a 10% tint of that color as its background, instead of gray text on `--tblr-fill-tertiary`.
+
 ## 1.7.5
 
 ### Patch Changes
